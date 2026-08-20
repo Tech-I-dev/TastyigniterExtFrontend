@@ -1,17 +1,16 @@
 {
-    "name": "tastyigniter/ti-ext-frontend",
+    "name": "techidev/tastyigniterextfrontend",
     "type": "tastyigniter-package",
     "description": "Manage basic components like Slider, Featured Menu Items, Banners and Newsletter",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sam Poyigi",
-            "email": "sam@sampoyigi.com"
+            "name": "Tech I Dev Pos Dev team"
         }
     ],
     "require": {
-        "tastyigniter/core": "^v4.0",
-        "tastyigniter/ti-ext-cart": "^v4.0",
+        "tastyigniter/core": "*",
+        "techidev/tastyigniterextcart": "*",
         "drewm/mailchimp-api": "^2.4"
     },
     "require-dev": {
