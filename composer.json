@@ -10,7 +10,7 @@
     ],
     "require": {
         "tastyigniter/core": "*",
-        "techidev/tastyigniterextcart": "*",
+        "techidev/tastyigniterextcart": "dev-main",
         "drewm/mailchimp-api": "^2.4"
     },
     "require-dev": {
